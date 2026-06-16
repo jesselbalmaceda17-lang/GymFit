@@ -215,4 +215,24 @@ border-radius:12px;
 width:250px;
 
 }
+.testimonials{
 
+padding:100px 10%;
+
+text-align:center;
+
+}
+
+.review{
+
+background:#1a1a1a;
+
+padding:30px;
+
+margin:20px auto;
+
+max-width:700px;
+
+border-radius:15px;
+
+}
